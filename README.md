@@ -1,6 +1,6 @@
 # Evaluation Data
 
-The data contained in the `processed` and `raw` folders is based on:
+The data contained in the  `raw` folders is based on:
 
 > Yandrapally, R., Stocco, A., and Mesbah, A. (2020). Near-
 duplicate detection in web app model inference. In
